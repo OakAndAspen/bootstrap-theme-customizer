@@ -1,6 +1,6 @@
 import RouteExample1 from "src/js/routes/RouteExample1.vue";
 import RouteExample2 from "src/js/routes/RouteExample2.vue";
-import RouteHome from "src/js/routes/RouteHome.vue";
+import RouteKitchenSink from "src/js/routes/RouteKitchenSink.vue";
 import Vue from "vue";
 import VueRouter from "vue-router";
 
@@ -10,7 +10,7 @@ const routes = [
     {
         path: '',
         name: 'home',
-        component: RouteHome
+        component: RouteKitchenSink
     },
     {
         path: '/example1',

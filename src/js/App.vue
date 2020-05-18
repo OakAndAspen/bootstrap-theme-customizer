@@ -1,7 +1,7 @@
 <template>
     <div class="App">
         <layout-navbar/>
-        <section class="container py-4 my-4">
+        <section class="container mt-4">
             <router-view/>
         </section>
     </div>
