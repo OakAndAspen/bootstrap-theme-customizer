@@ -1,7 +1,9 @@
 <template>
     <div id="RouteKitchenSink">
-        <div v-for="section of sections" :id="section.label">
-            <h2 class="text-center text-secondary small-caps my-4 py-4">- {{section.label}} -</h2>
+        <div v-for="section of sections">
+            <h2 class="text-center text-secondary small-caps my-4 py-4" :id="section.label">
+                - {{section.label}} -
+            </h2>
             <component v-bind:is="section.component"></component>
         </div>
     </div>
