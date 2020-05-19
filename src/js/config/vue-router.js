@@ -6,7 +6,7 @@ import ExampleCover from "src/js/components/examples/ExampleCover.vue";
 import ExampleDashboard from "src/js/components/examples/ExampleDashboard.vue";
 import ExamplePricing from "src/js/components/examples/ExamplePricing.vue";
 import ExampleProduct from "src/js/components/examples/ExampleProduct.vue";
-import RouteKitchenSink from "src/js/routes/RouteKitchenSink.vue";
+import RouteKitchenSink from "src/js/components/RouteKitchenSink.vue";
 import Vue from "vue";
 import VueRouter from "vue-router";
 

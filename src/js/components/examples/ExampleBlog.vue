@@ -1,12 +1,12 @@
 <template>
     <div id="ExampleBlog">
-        <header class="blog-header py-3">
+        <header class="py-3">
             <div class="row flex-nowrap justify-content-between align-items-center">
                 <div class="col-4 pt-1">
                     <a class="text-muted" href="#">Subscribe</a>
                 </div>
                 <div class="col-4 text-center">
-                    <a class="blog-header-logo text-dark" href="#">Large</a>
+                    <a class="text-dark" href="#">Large</a>
                 </div>
                 <div class="col-4 d-flex justify-content-end align-items-center">
                     <a class="text-muted" href="#">
@@ -60,7 +60,7 @@
                         <a href="#" class="stretched-link">Continue reading</a>
                     </div>
                     <div class="col-auto d-none d-lg-block">
-                        <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg"
+                        <svg width="200" height="250" xmlns="http://www.w3.org/2000/svg"
                              preserveAspectRatio="xMidYMid slice" focusable="false" role="img"
                              aria-label="Placeholder: Thumbnail"><title>Placeholder</title>
                             <rect width="100%" height="100%" fill="#55595c"></rect>
@@ -80,7 +80,7 @@
                         <a href="#" class="stretched-link">Continue reading</a>
                     </div>
                     <div class="col-auto d-none d-lg-block">
-                        <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg"
+                        <svg width="200" height="250" xmlns="http://www.w3.org/2000/svg"
                              preserveAspectRatio="xMidYMid slice" focusable="false" role="img"
                              aria-label="Placeholder: Thumbnail"><title>Placeholder</title>
                             <rect width="100%" height="100%" fill="#55595c"></rect>

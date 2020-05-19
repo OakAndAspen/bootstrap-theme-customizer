@@ -16,21 +16,21 @@
                     <span class="badge badge-secondary badge-pill">3</span>
                 </h4>
                 <ul class="list-group mb-3">
-                    <li class="list-group-item d-flex justify-content-between lh-condensed">
+                    <li class="list-group-item d-flex justify-content-between">
                         <div>
                             <h6 class="my-0">Product name</h6>
                             <small class="text-muted">Brief description</small>
                         </div>
                         <span class="text-muted">$12</span>
                     </li>
-                    <li class="list-group-item d-flex justify-content-between lh-condensed">
+                    <li class="list-group-item d-flex justify-content-between">
                         <div>
                             <h6 class="my-0">Second product</h6>
                             <small class="text-muted">Brief description</small>
                         </div>
                         <span class="text-muted">$8</span>
                     </li>
-                    <li class="list-group-item d-flex justify-content-between lh-condensed">
+                    <li class="list-group-item d-flex justify-content-between">
                         <div>
                             <h6 class="my-0">Third item</h6>
                             <small class="text-muted">Brief description</small>
